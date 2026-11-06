@@ -95,3 +95,5 @@ footer.site a { margin-right: 16px; }
 }
 
 .small { font-size: 13px; color: var(--quiet); }
+
+.cta-row { display: flex; flex-wrap: wrap; gap: 10px; margin: 16px 0 8px; }
